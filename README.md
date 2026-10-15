@@ -60,6 +60,24 @@ The RX 580 8GB is the primary development and testing target. Compatibility and 
 
 ---
 
+## ⚠️ Steam Version Compatibility — Easy Anti-Cheat
+
+**The current version of this compatibility fix does not work with the Steam version of Gears of War: E-Day due to Easy Anti-Cheat (EAC) restrictions.**
+
+Easy Anti-Cheat can prevent the custom compatibility components required by this fix from loading correctly. As a result, installing the fix does not guarantee that it will work with the Steam version of the game.
+
+### Important Notes
+
+- The current fix is **not compatible with the Steam version while these restrictions prevent its required components from loading**.
+- This is a known compatibility limitation and does not necessarily indicate a problem with your GPU or the installation itself.
+- Do not assume that reinstalling the fix will resolve this limitation.
+- Do not attempt to bypass Easy Anti-Cheat or modify its files to force compatibility.
+- Check the project's release notes for updates to Steam compatibility.
+
+**Steam compatibility is not currently supported.** This status may change in a future release if a compatible solution becomes available.
+
+---
+
 ## Features
 
 - Compatibility work targeting AMD Polaris GPUs.
