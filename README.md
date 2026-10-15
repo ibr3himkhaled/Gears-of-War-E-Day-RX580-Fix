@@ -113,6 +113,32 @@ The first launch may take longer than later launches while graphics components i
 
 ---
 
+## Recommended: Install the Game on an SSD
+
+**Installing Gears of War: E-Day on an SSD is strongly recommended.**
+
+The game may experience longer loading times, texture streaming delays, and occasional stuttering when installed on a traditional hard disk drive (HDD).
+
+An SSD can help reduce loading times and improve asset streaming responsiveness, potentially reducing some stuttering associated with loading game assets during gameplay.
+
+### SSD vs. HDD
+
+| Storage Type | Expected Experience |
+|:---|:---|
+| SSD | Recommended for faster loading and more responsive asset streaming |
+| HDD | Longer loading times, possible texture pop-in, and occasional streaming-related stuttering |
+
+### Important Notes
+
+- An SSD is recommended for the best possible gameplay experience.
+- Installing the game on an HDD may result in delayed texture loading or temporary stuttering while assets are streamed.
+- Storage-related stuttering is separate from graphics compatibility issues and may persist even when the fix is working correctly.
+- An SSD cannot eliminate every source of stuttering or guarantee a specific performance improvement.
+
+**Recommendation:** Install the game on an SSD whenever possible, especially if you experience slow texture loading or repeated stuttering while exploring the game world.
+
+---
+
 ## Recommended: Lossless Scaling
 
 For users who want to experiment with smoother perceived motion, **Lossless Scaling** is recommended as an optional companion application.
