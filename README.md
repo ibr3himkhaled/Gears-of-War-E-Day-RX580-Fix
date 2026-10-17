@@ -60,6 +60,23 @@ The RX 580 8GB is the primary development and testing target. Compatibility and 
 
 ---
 
+## ⚠️ IMPORTANT: Supported Game Version
+
+> [!WARNING]
+> **This fix is currently intended to work only with the initial game release, build `v4894958`.**
+>
+> I do **not recommend updating the game** if you intend to use this compatibility fix.
+>
+> Newer game updates may introduce compatibility issues. The game may fail to launch, or it may launch with numerous missing textures and other rendering problems.
+>
+> **For the best chance of compatibility, use the original game build `v4894958`.**
+>
+> Compatibility with newer game versions has not been confirmed. Do not assume that the fix will work correctly after updating the game.
+>
+> If you are already using a newer build, please do not report it as a confirmed compatibility issue until the fix has been tested against that specific version.
+
+---
+
 ## ⚠️ Steam Version Compatibility — Easy Anti-Cheat
 
 **The current version of this compatibility fix does not work with the Steam version of Gears of War: E-Day due to Easy Anti-Cheat (EAC) restrictions.**
