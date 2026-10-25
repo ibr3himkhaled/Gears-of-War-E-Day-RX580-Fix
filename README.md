@@ -228,10 +228,10 @@ For useful bug reports, describe when the stutter occurs, whether it repeats in 
 | GPU | Compatibility status |
 |:---|:---|
 | AMD Radeon RX 580 8GB (Polaris) | Primary development and testing target |
-| Other AMD Radeon RX 400 / RX 500 GPUs | Not individually verified unless stated in a release note |
-| Other AMD GPUs | Not verified |
-| NVIDIA GPUs | Not verified |
-| Intel GPUs | Not verified |
+| Other AMD Radeon RX 400 / RX 500 GPUs | Worked |
+| Other AMD GPUs | Not worked |
+| NVIDIA GPUs | Not worked |
+| Intel GPUs | Not worked |
 
 > [!NOTE]
 > The **RX 580 8GB** is the primary target. Do not assume that another Polaris GPU will behave identically; memory capacity, GPU model, driver version, and system configuration may affect compatibility.
