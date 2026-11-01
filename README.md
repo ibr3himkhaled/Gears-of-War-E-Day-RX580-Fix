@@ -331,6 +331,6 @@ Developed through independent compatibility research, graphics debugging, shader
 
 <div align="center">
 
-**The fix is free to use. Support is always optional.**
+**The compatibility fix remains free and publicly available. Your financial support helps make continued development possible.**
 
 </div>
