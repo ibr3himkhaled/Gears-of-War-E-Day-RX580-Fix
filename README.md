@@ -13,33 +13,39 @@
 
 **Developed and tested primarily on the AMD Radeon RX 580 8GB.**
 
-[⬇️ Download the Fix](https://stly.link/gearsOfWarEDay) · [Report an Issue](../../issues)
+</div>
 
 ---
 
 ## ❤️ Support My Work
 
-Hi, I'm **Ibrahim Khaled**, an independent developer working on compatibility fixes that help older AMD graphics cards run modern games.
+Hi, I'm **Ibrahim Khaled**, an independent developer from Egypt, working on compatibility fixes that help older AMD graphics cards run modern games.
 
-Developing these projects involves graphics API investigation, shader analysis, debugging, compatibility research, and repeated testing.
+Developing these projects takes countless hours of research, graphics API investigation, reverse engineering, shader analysis, debugging, and repeated testing. I dedicate my personal time and resources to finding solutions that allow people with older hardware to enjoy modern games.
 
-If this project has been useful to you, please consider supporting the development of future fixes.
+I want to be completely honest with you. **Life in Egypt has become extremely difficult financially, and I'm struggling to cover my living expenses while trying to continue this independent development work.**
+
+I genuinely love what I do, and I want to continue developing compatibility fixes, supporting more games, and helping the gaming community. However, maintaining these projects and continuing development has become increasingly difficult without financial support.
+
+**I genuinely need your financial support to keep going.**
+
+Your contributions will help me cover my living expenses, dedicate more time to development, maintain existing projects, and continue researching compatibility solutions for older AMD GPUs.
+
+<div align="center">
 
 ### ☕ Support Development
 
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ibr3himkhaled)
+**Your financial support can make a real difference in helping me continue this work.**
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/ibr3himkhaled)
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ibr3himkhap)
-
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/IbrahimKhaled011)
 
-**All donations are optional. The compatibility fix is intended to remain free.**
+**My compatibility fixes will remain free and publicly available.**
 
-Your support helps fund continued research, development, debugging, and compatibility testing for older GPUs.
+Your support helps me continue doing what I love, improve existing projects, and bring more compatibility fixes to the community.
 
-**Thank you for supporting independent development!**
+**Thank you for believing in my work and helping me move forward. ❤️**
 
 </div>
 
