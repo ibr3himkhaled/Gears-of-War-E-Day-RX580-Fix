@@ -51,6 +51,16 @@ Your support helps me continue doing what I love, improve existing projects, and
 
 ---
 
+## 🎮 Explore My Other Game Fixes
+
+Looking for compatibility fixes for other games?
+
+Check out my GitHub repositories to discover more game fixes and compatibility projects.
+
+[**Browse All My Game Fixes on GitHub →**](https://github.com/ibr3himkhaled?tab=repositories)
+
+---
+
 ## Overview
 
 This project provides a custom compatibility solution for **Gears of War: E-Day**, targeting the **AMD Radeon RX 580 8GB** and other GPUs based on AMD's Polaris architecture.
